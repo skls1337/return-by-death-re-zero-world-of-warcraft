@@ -1,7 +1,7 @@
 ## Interface: 110007
 ## Title: Return By Death (Re:Zero)
 ## Notes: Plays the Return by Death sound upon resurrection.
-## Author: YourName
+## Author: Andy Grecu
 ## Version: 1.0
 
 ReturnByDeath.lua
