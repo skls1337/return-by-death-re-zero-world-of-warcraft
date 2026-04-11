@@ -1,4 +1,4 @@
-## Interface: 110007
+## Interface: 120000, 120001
 ## Title: Return By Death (Re:Zero)
 ## Notes: Plays the Return by Death sound upon resurrection.
 ## Author: Andy Grecu
